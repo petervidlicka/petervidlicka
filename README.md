@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @petervidlicka
+- 👀 I’m the Managing Director at Yolk Studio in Prague and CTO of Newspage.
+- 🌱 I’m currently working on growing our talented team of designers and developers as we are working on many interesting projects for local and international clients.
+- 💞️ I’m looking to collaborate on anything related to tech - web and mobile app development, web analytics. We are working mainly with React (Next.js), Node.js and PHP (Laravel).
+- 📫 You can reach my by sending a quick email to peter@yolkstudio.com.
+- Check out our website: https://yolkstudio.com - press 'Y' for a fun easter egg :).
